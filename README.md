@@ -6,5 +6,5 @@ A Simple Flash module to work with LiquidCrystal_I2c.h to flash text on the scre
 
 Example Code:
 
-    flash("Warning !", 4,0); // Flashes the word 'Warning!' on Column 4, row 0 
+    flash("Warning !", 4,0); // Flashes the word 'Warning!' starting in Column 4 of Row 0. 
 
